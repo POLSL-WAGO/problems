@@ -1,3 +1,9 @@
+/*
+	Kuśmierz Wojciech
+	Rojek Marcin
+	Wiśniewski Mateusz
+*/
+
 var canvas;
 var ctx;
 var shapes = [];
